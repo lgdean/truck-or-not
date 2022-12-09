@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/lgdean/truck-or-not#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "parcel-bundler": "^1.12.3"
   },
   "devDependencies": {
